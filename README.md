@@ -37,7 +37,7 @@ Here you’ll find all the games I’ve published on Steam with links to their S
 ## SPACESHEEP ##
 > Genre: 2D Platformer, CO-OP
 
-> Release Date: Coming Soon
+> Release Date: 11 November 2025
 
 > Engine used: Python / Pygame
 
